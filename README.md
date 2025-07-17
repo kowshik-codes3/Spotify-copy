@@ -37,7 +37,7 @@ Edit
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your webpage if you're uploading this to GitHub)*
+![image alt](https://github.com/kowshik-codes3/Spotify-copy/blob/main/Screenshot%202025-07-17%20095730.png)
 
 ---
 
