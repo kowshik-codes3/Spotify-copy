@@ -35,7 +35,7 @@ a:hover {
 .sidebar a button {
   width: 100%;
   padding: 10px;
-  background-color: #1db954;
+  background-color: #1eb744;
   border: none;
   border-radius: 20px;
   color: white;
@@ -85,6 +85,14 @@ a:hover {
   width: 50px;
   height: 50px;
   border-radius: 4px;
+  text-align:center;
+}
+.song-footer1 img {
+  width: 50px;
+  height: 50px;
+  border-radius: 4px;
+  padding-left: 50px;
+  text-align: center;
 }
 .song-details {
   flex: 1;
@@ -102,9 +110,24 @@ a:hover {
   font-size: 14px;
   color: #ccc;
 }
+
+
+.footer1 {
+  background-color: #000000;
+  padding: 10px ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #58e770;
+  padding-right: 200px;
+  
+  
+}
 .footer {
   background-color: #181818;
-  padding: 15px 20px;
+  padding: 10px ;
+  
+  
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -112,5 +135,5 @@ a:hover {
 }
 .footer .controls {
   display: flex;
-  gap: 15px;
+  gap: 50px;
 }
